@@ -4,18 +4,333 @@ title: Calendar
 uid: 24d39a3e-e20a-fa5c-d20f-b66ff1e25101
 ---
 
-| Ses # | Topics | Key Dates |
-| --- | --- | --- |
-|  {{< br >}}{{< br >}} 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Introduction, Probabilistic Concepts, Normal Distribution {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Limit Theorems {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Problem Set 1 Assigned {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Samples, Statistics, Sample Distributions {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Sufficient Statistics {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Problem Set 1 Due {{< br >}}{{< br >}} Problem Set 2 Assigned {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Point Estimators, Method of Moments {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Efficient Estimators, Rao-Cramer Bound {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Problem Set 2 Due {{< br >}}{{< br >}} Problem Set 3 Assigned {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Large Sample Properties of Maximum Likelihood Estimation (MLE) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Testing Concepts {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Problem Set 3 Due {{< br >}}{{< br >}} Problem Set 4 Assigned {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Testing, Uniformly Most Powerful (UMP) Tests, Neyman-Pearson Lemma {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Large Sample Tests {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Problem Set 4 Due {{< br >}}{{< br >}} Problem Set 5 Assigned {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 11 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Confidence Sets Construction {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 12 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Bayesian Concepts {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Problem Set 5 Due {{< br >}}{{< br >}} Problem Set 6 Assigned {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 13 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} No Lectures {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Midterm Exam {{< br >}}{{< br >}} Problem Set 6 Due {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Ses #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Key Dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction, Probabilistic Concepts, Normal Distribution
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Limit Theorems
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem Set 1 Assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Samples, Statistics, Sample Distributions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sufficient Statistics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem Set 1 Due
+
+Problem Set 2 Assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Point Estimators, Method of Moments
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Efficient Estimators, Rao-Cramer Bound
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem Set 2 Due
+
+Problem Set 3 Assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Large Sample Properties of Maximum Likelihood Estimation (MLE)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Testing Concepts
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem Set 3 Due
+
+Problem Set 4 Assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+9
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Testing, Uniformly Most Powerful (UMP) Tests, Neyman-Pearson Lemma
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+10
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Large Sample Tests
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem Set 4 Due
+
+Problem Set 5 Assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Confidence Sets Construction
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+12
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Bayesian Concepts
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem Set 5 Due
+
+Problem Set 6 Assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+13
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+No Lectures
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Midterm Exam
+
+Problem Set 6 Due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
